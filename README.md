@@ -1,2 +1,2 @@
-# goodchat
+# chatboy
 A Chat Room
